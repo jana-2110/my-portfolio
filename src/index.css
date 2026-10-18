@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global Styles */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #030014; /* Matches your theme background */
+  color: #e5e5e5;
+}
